@@ -1,4 +1,4 @@
-### Hello! (wave)
+### Hello! 👋
 
 I'm mxfmd.
 
